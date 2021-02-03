@@ -320,3 +320,10 @@ class CardCarousel extends DraggingEvent {
 
 const carousel = new CardCarousel(cardsContainer)
 
+
+
+
+
+
+
+ 
